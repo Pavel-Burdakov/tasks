@@ -1,0 +1,4 @@
+rootProject.name = 'tasks-project'
+
+include("subprojects:user-app")
+
