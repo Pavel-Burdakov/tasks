@@ -1,4 +1,4 @@
-package com.example.userapp;
+package com.github.pavelburdakov.userapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

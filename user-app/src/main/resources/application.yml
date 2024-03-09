@@ -16,4 +16,3 @@ app:
     client:
       id: tasks-keycloak-client
       secret: 0tamQK3jRCNega65Va930wTAsu4Fh46w
-
